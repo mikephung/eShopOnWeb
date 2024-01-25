@@ -7,7 +7,7 @@
         "args": {
         "USERNAME": "vscode",
         "INSTALL_NODE": "false",
-        "NODE_VERSION": "lts/*",
+        "NODE_VERSION": "20",
         "INSTALL_AZURE_CLI": "false"
         }
     },
